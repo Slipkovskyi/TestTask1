@@ -21,7 +21,8 @@ body{
 }
 
 .results{
-    width: 35%;
+    width: auto;
+    min-width:555.5px;
     height: auto;
     background-color: rgb(210, 231, 212);
     border-radius: 10px;    
